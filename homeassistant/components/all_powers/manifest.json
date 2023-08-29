@@ -1,0 +1,13 @@
+{
+  "domain": "all_powers",
+  "name": "All Powers S300",
+  "codeowners": ["@madninjaskillz"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/all_powers",
+  "homekit": {},
+  "iot_class": "local_polling",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
